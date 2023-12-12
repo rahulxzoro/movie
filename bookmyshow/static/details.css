@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Bruno+Ace+SC&family=Bungee+Shade&family=Dhurjati&family=Faster+One&family=Gugi&family=Noto+Sans+Malayalam:wght@800&family=Reggae+One&family=Sedgwick+Ave&family=Shadows+Into+Light&family=Trade+Winds&display=swap');
+
+img{width: 100%;}
+
+.f{padding-top: 7px;}
+
+.navbar-nav
+{
+    margin-left: 2cm;
+}
+.navbar-brand img
+{
+    max-height: 50px;
+}
+
+.navbar-nav .nav-link 
+{
+    color: rgb(245, 246, 245) !important;
+}
+
+.nav-item
+{
+    font-family: 'Dhurjati', sans-serif;
+    font-size: 23px;
+    padding-right: 20%;
+    
+}
+
+.search-input
+{
+    border-radius: 8px;
+    background-color:black;
+    color: aliceblue;
+}
+.search-form
+{
+    padding-top: 10px;
+    padding-left: 250px;
+}
+
+.c1
+{
+    position: relative;
+    display: flex;
+}
+
+.r1
+{
+   
+    position: absolute;
+}
+
+
+
+.img2
+{
+position: absolute;
+top: 20%;
+left: 10%;
+width: 250px;
+border: 2px solid rgb(19, 19, 19);
+border-radius: 10px;
+
+}
+
+
+.content
+{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    top: 20%;   
+    left: 30%;
+    
+}
+
+.btn
+{
+    width: 75px;
+    
+}
+
+.btn1
+{
+    width: 90px;
+    margin-bottom: 10px;
+}
+
+.d
+{
+    font-family:'Dhurjati',cursive ;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
